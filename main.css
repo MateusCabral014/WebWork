@@ -108,7 +108,7 @@ p {
 .main-1-sbr {
     margin-top: 50px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
 }
 .title-sbr {
