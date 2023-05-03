@@ -209,7 +209,7 @@ textarea {
         flex-direction: column;
     }
     .menu {
-        font-size: 10px;
+        font-size: 20px;
         text-align: center;
     }
     .login-btn {
