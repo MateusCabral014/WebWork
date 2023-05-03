@@ -211,9 +211,6 @@ textarea {
     .menu {
         text-align: center;
     }
-    .menu ul li {
-        font-size: 20px;
-    }
     .login-btn {
         display: flex;
         margin-top: 20px;
