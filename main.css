@@ -209,8 +209,10 @@ textarea {
         flex-direction: column;
     }
     .menu {
-        font-size: 20px;
         text-align: center;
+    }
+    .menu ul li {
+        font-size: 20px;
     }
     .login-btn {
         display: flex;
