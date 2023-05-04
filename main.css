@@ -245,10 +245,10 @@ textarea {
         flex-direction: column;
     }
     .prc-2 {
-        margin-top: 30px;
+        margin-top: 50px;
     }
     .prc-3 {
-        margin-top: 30px;
+        margin-top: 50px;
     }
 }
 @media screen and (max-width: 375px) {
