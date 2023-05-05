@@ -245,11 +245,9 @@ textarea {
         flex-direction: column;
     }
     .prc-2 {
-        display: flex;
         margin-top: 70px;
     }
     .prc-3 {
-        display: flex;
         margin-top: 70px;
     }
 }
