@@ -201,7 +201,7 @@ p {
     justify-content: flex-end;
     min-width: 100%;
     width: 100%;
-    border-radius: 0.25rem;
+    border-radius: 1.25rem;
     overflow: hidden;
     position: relative;
     aspect-ratio: 1;
