@@ -201,7 +201,7 @@ p {
     justify-content: flex-end;
     min-width: 100%;
     width: 100%;
-    border-radius: 1.25rem;
+    border-radius: 0.25rem;
     overflow: hidden;
     position: relative;
     aspect-ratio: 1;
@@ -209,6 +209,7 @@ p {
   @media (min-width: 460px) {
     .slider__item {
       aspect-ratio: 0.6666666667;
+      border-radius: 1.25rem;
       min-width: calc((100% / 2) - 2rem);
    }
   }
