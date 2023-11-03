@@ -131,7 +131,7 @@ p {
 }
 
 .menu-btn.open~.menu {
-    transform: translateX(-490px);
+    transform: translateX(-400px);
     transition: transform 1s ease;
 }
 
