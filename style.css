@@ -512,7 +512,7 @@ p {
         }
 
         100% {
-            transform: translateY(50px) translateX(-330px);
+            transform: translateY(50px) translateX(-250px);
         }
     }
 
